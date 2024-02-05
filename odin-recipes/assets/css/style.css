@@ -1,3 +1,17 @@
+:root {
+    --bg-color: #f9f6ee;
+    --text: #131007;
+}
+
 * {
     font-family: 'Georgia', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text);
 }
+
+a {
+    text-decoration: none;
+}
+
+
+
