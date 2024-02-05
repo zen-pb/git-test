@@ -9,14 +9,6 @@
     color: var(--text);
 }
 
-a {
-    text-decoration: none;
-}
-
-a:hover {
-    border: 5px solid black;
-}
-
 img {
     max-width: 100%;
     height: auto;
@@ -36,4 +28,12 @@ img {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem 1rem;
+}
+
+.recipe-link {
+    text-decoration: none;
+}
+
+.recipe-link:hover {
+    border: 5px solid black;
 }
