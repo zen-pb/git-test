@@ -1,1 +1,3 @@
-A compilation of my completed activities from 'The Odin Project'.
+# git_test
+My not-so-first Github repo!
+Hello Odin!
